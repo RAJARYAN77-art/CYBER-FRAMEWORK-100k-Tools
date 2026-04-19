@@ -32,4 +32,4 @@ Download or clone the repository and open `index.html`.
 
 ## 📦 Installation & Usage
 
-![100k Tools](https://rajaryan77-art.github.io/CYBER-FRAMEWORK-100k-Tools/)
+[100k Tools](https://rajaryan77-art.github.io/CYBER-FRAMEWORK-100k-Tools/)
